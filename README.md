@@ -47,7 +47,7 @@ You can check ```main.py``` for a full list of arguments you can adjust.
 
 In the codebase, window sliding and image preprocessing are delegated to the dataset loader and the code only supports training on configurations with a single component. 
 
-Training from scratch is extremely hard, so we provide start checkpoints in ```assets/```. You can use those checkpoints for your training. For additional details in training, please refer to [the supplementary matrial](http://wellyzhang.github.io/attach/eccv22zhang_alans_supp.pdf).
+Training from scratch is extremely hard, so we provide starter checkpoints in ```assets/```. You can use those checkpoints for your training. For additional training details, please refer to [the supplementary matrial](http://wellyzhang.github.io/attach/eccv22zhang_alans_supp.pdf).
 
 To test on a configuration, run
 ```
