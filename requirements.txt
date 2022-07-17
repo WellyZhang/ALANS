@@ -1,0 +1,6 @@
+numpy
+pillow
+tqdm
+torch==1.9.1
+tensorboard
+opencv-python
